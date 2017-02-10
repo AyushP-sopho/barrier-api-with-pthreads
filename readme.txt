@@ -1,12 +1,11 @@
 --------------------------------------------
  * Name - Ayush Prakash
- * Roll no - CS15BTECH11008
  * Date - 10/02/2017
  * Readme for Program to implement Barrier
    API using semaphores.
 --------------------------------------------
 
-* The zip file contains 5 files:
+* The repository contains 5 files:
 
  1) barrier.cpp - Contains the code for barrier API.
  2) main.cpp - Sample main program to know how to use the API.
